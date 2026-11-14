@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1794638120,
+    "datetime": 1794651177,
     "type": "UNOFFICIAL",
     "version": "24.0",
     "files": [
       {
         "filename": "lineage-24.0-20261114-UNOFFICIAL-f460.zip",
-        "sha256": "e533391fd3994c26e1a08a03c74dafe914807f0f0b9d74de19b5aa16c3d0f4ad",
-        "size": 853912051,
-        "url": "https://github.com/AKAsaliza/f460-ota/releases/download/20261114-0635/lineage-24.0-20261114-UNOFFICIAL-f460.zip",
+        "sha256": "aec4adc715ca9c0f9593b51e6231207749bbaf32070220b3c85ef69dd422ddce",
+        "size": 853856338,
+        "url": "https://github.com/AKAsaliza/f460-ota/releases/download/20261114-1012/lineage-24.0-20261114-UNOFFICIAL-f460.zip",
         "os_sdk_level": 37,
         "os_patch_level": "2026-11-01"
       }
